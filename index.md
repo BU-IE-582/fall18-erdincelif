@@ -5,4 +5,4 @@
 
 ## Week 3 (October 18)
 
-[Here](files/HW1.html) is my homework 1. The codes generated for Task 1 [here](files/HW1_task1.R) and Task 2 are [here](files/HW1_task2.R). 
+[Here](files/HW_1.html) is my homework 1. The codes generated for Task 1 [here](files/HW1_task1.R) and Task 2 are [here](files/HW1_task2.R). 
