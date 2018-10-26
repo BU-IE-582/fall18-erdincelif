@@ -10,11 +10,11 @@
 ## Week 4 (October 26)
 
 [Here](files/HW2.html) is my homework 2.
-The codes generated for Task 1.a
+The codes generated for 5 bookmakers in Task 1:
 [1](files/HW2_task1_p.R)
 [2](files/HW2_task1_bet365.R)
 [3](files/HW2_task1_bwin.R)
 [4](files/HW2_task1_youwin.R)
 [5](files/HW2_task1_comeOn.R)
-for Task 2 [here](files/HW2_task2.R)
-for Task 3 [here](files/HW2_task3_v2.R).
+for Task 2: [here](files/HW2_task2.R)
+for Task 3: [here](files/HW2_task3_v2.R).
