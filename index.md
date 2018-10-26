@@ -12,7 +12,7 @@
 [Here](files/HW2.html) is my homework 2.
 The codes generated for 5 bookmakers in Task 1:
 [1](files/HW2_task1_p.R),
-[2](files/HW2_task1_bet365.R),
+[2](files/HW2_task1_b365.R),
 [3](files/HW2_task1_bwin.R),
 [4](files/HW2_task1_youwin.R),
 [5](files/HW2_task1_comeOn.R);
