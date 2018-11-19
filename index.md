@@ -18,3 +18,6 @@ The codes generated for 5 bookmakers in Task 1:
 [5](files/HW2_task1_comeOn.R);
 for Task 2: [here](files/HW2_task2.R),
 for Task 3: [here](files/HW2_task3_v2.R).
+
+## Week 8 (November 19)
+[Here](files/HW3.html) is my homework 3. The codes are also in files for [Task 1](files/HW3_task1.R) and [Task 2](files/HW3_task2.R).
