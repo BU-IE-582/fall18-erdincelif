@@ -21,3 +21,6 @@ for Task 3: [here](files/HW2_task3_v2.R).
 
 ## Week 8 (November 19)
 [Here](files/HW3.html) is my homework 3. The codes are also in files for [Task 1](files/HW3_task1.R) and [Task 2](files/HW3_task2.R).
+
+## Week 12 (December 19)
+[Here](files/HW4.html) is my homework 4. Here are the codes for [regression](files/HW4_reg.R) and [classification](files/HW4_class4_v2.R).  
